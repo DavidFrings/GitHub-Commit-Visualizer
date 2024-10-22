@@ -1,4 +1,7 @@
 # GitHub Commit Visualizer
+## ToDo:
+
+### Make better imgs
 
 ## Commits:
 
